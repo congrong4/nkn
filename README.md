@@ -9,9 +9,10 @@
 > Internet that will be truly open, decentralized, dynamic, safe, shared and
 > owned by the community.
 
-Official website: [https://nkn.org/](https://nkn.org/)
-
-## Introduction
+d官方网站：d[ 
+https://nkn.org/ ]（https://nkn.org/） 
+dfadsf
+＃＃ 介绍
 
 The core of the NKN network consists of many connected nodes distributed
 globally. Every node is only connected to and aware of a few other nodes called
